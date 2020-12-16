@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Download Spigot" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.spigotmc.builder.Bootstrap" />
+    <module name="CPS-Limiter" />
+    <option name="PROGRAM_PARAMETERS" value="--rev 1.8.8" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_DIR$/out/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

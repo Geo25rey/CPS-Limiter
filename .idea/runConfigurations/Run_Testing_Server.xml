@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Testing Server" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.bukkit.craftbukkit.Main" />
+    <module name="CPS-Limiter" />
+    <option name="VM_PARAMETERS" value="-cp $MODULE_DIR$/lib/spigot-1.8.8.jar" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_DIR$/test-server/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
